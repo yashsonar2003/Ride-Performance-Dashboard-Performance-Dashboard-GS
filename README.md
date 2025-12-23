@@ -74,7 +74,7 @@ Google Sheets.
 -----
 
 # Dashboard Preview:-
-![Ride_Booking_Performance](Analysis/Screenshot/Dashboard Screenshot.png)
+![Dashboard](Analysis/Screenshot/Dashboard_Screenshot.png)
 
 -----
 
